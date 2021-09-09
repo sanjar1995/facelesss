@@ -900,7 +900,7 @@ body.active {
 }
 
 .footer-email {
-    color: #505050;
+    color: #fff;
     margin-bottom: 20px;
     display: inline-block;
     font-size: 20px;
@@ -911,7 +911,7 @@ body.active {
 .footer-info-txt {
     font-family: 'Esmeralda-Pro';
     font-size: 20px;
-    color: #505050;
+    color: #fff;
     position: relative;
 }
 
